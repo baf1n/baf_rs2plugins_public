@@ -7,7 +7,7 @@
 
 ## 公開しているプラグイン
 公開しているプラグインの一覧を以下に示します。
-なお、プラグインは[Releaces](https://github.com/baf1n/baf_rs2plugins_public/releases/)にアップロードします。
+なお、プラグインは[Releases](https://github.com/baf1n/baf_rs2plugins_public/releases/)にアップロードします。
 
 ### 一覧
 現在公開しているものはありません。
