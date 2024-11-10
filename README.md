@@ -1,1 +1,2 @@
 # baf_rs2plugins_public
+RailSim2プラグインの公開用のリポジトリ
